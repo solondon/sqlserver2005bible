@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XML Spy v4.3 U (http://www.xmlspy.com) by Paul Nielsen (private) -->
+<Tours>
+	<Tour Name="Amazon Trek">
+		<Event Code="01-003" DateBegin="2001-03-16T00:00:00"/>
+		<Event Code="01-015" DateBegin="2001-11-05T00:00:00"/>
+	</Tour>
+	<Tour Name="Appalachian Trail">
+		<Event Code="01-005" DateBegin="2001-06-25T00:00:00"/>
+		<Event Code="01-008" DateBegin="2001-07-14T00:00:00"/>
+		<Event Code="01-010" DateBegin="2001-08-14T00:00:00"/>
+	</Tour>
+	<Tour Name="Bahamas Dive">
+		<Event Code="01-002" DateBegin="2001-05-09T00:00:00"/>
+		<Event Code="01-006" DateBegin="2001-07-03T00:00:00"/>
+		<Event Code="01-009" DateBegin="2001-08-12T00:00:00"/>
+	</Tour>
+	<Tour Name="Gauley River Rafting">
+		<Event Code="01-012" DateBegin="2001-09-14T00:00:00"/>
+		<Event Code="01-013" DateBegin="2001-09-15T00:00:00"/>
+	</Tour>
+	<Tour Name="Outer Banks Lighthouses">
+		<Event Code="01-001" DateBegin="2001-02-02T00:00:00"/>
+		<Event Code="01-004" DateBegin="2001-06-06T00:00:00"/>
+		<Event Code="01-007" DateBegin="2001-07-03T00:00:00"/>
+		<Event Code="01-011" DateBegin="2001-08-17T00:00:00"/>
+		<Event Code="01-014" DateBegin="2001-10-03T00:00:00"/>
+		<Event Code="01-016" DateBegin="2001-11-16T00:00:00"/>
+	</Tour>
+</Tours>
